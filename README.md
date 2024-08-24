@@ -1,0 +1,1 @@
+Developed and implemented a neural network framework in Python, featuring custom classes for neurons and synapses with randomly initialized weights and biases. The model includes forward and backward propagation, ReLU activation, and an optimization routine for weight and bias updates through gradient descent.
